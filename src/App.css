@@ -22,8 +22,9 @@ body{
 }
 
 h1{
-  font-family: "Poppins", sans-serif;
-  font-weight: 900;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "Righteous", sans-serif;
+  /* font-weight: 900; */
   font-size: 10rem;
   color: #432818;
   
