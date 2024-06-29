@@ -9,7 +9,8 @@
   padding: 0;
 }
 body{
-  background-color: #FFE6A7;
+  /* background-color: #FFE6A7; */
+  background-color: #fbf2c0;
   
 }
 
@@ -27,12 +28,13 @@ h1{
   /* font-weight: 900; */
   font-size: 10rem;
   color: #432818;
+  font-weight: 400;
   
 }
 
 span{
-  padding: 20px;
-  font-weight: 400;
+  padding: 10px;
+
  
   /* font-family: "Tiny5", sans-serif; */
   font-family: "Righteous", sans-serif;
